@@ -14,7 +14,7 @@ The dashboard was built using the following tools and technologies:<br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
 ## Data Source
-- <a href="https://mavenanalytics.io/data-playground/airbnb-listings-reviews>Airbnb">Dataset</a>
+- <a href="https://mavenanalytics.io/data-playground/airbnb-listings-reviews">Airbnb Dataset</a>
 
 ## Features
 
@@ -86,3 +86,5 @@ Uncovers trends in customer satisfaction, review behavior, property distribution
 - Leverage insights from highly rated cities to improve performance in other markets.
 
 ## Dashboard
+### 1. Overview Page
+<img width="1013" height="539" alt="Vrinda Sales Dashboard" src="https://github.com/Mann0405/Airbnb-Performance-Data-Analysis-using-Power-BI/blob/main/Snapshot%20of%20Overview%20Page.PNG" />
