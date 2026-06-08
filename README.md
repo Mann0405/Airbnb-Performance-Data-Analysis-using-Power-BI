@@ -87,4 +87,4 @@ Uncovers trends in customer satisfaction, review behavior, property distribution
 
 ## Dashboard
 ### 1. Overview Page
-<img width="1013" height="539" alt="Vrinda Sales Dashboard" src="https://github.com/Mann0405/Airbnb-Performance-Data-Analysis-using-Power-BI/blob/main/Snapshot%20of%20Overview%20Page.PNG" />
+<img width="637" height="479" alt="Vrinda Sales Dashboard" src="https://github.com/Mann0405/Airbnb-Performance-Data-Analysis-using-Power-BI/blob/main/Snapshot%20of%20Overview%20Page.PNG" />
