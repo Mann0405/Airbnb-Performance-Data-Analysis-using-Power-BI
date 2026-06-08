@@ -14,7 +14,7 @@ The dashboard was built using the following tools and technologies:<br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
 ## Data Source
-- <a href = "https://mavenanalytics.io/data-playground/airbnb-listings-reviews>Airbnb>Dataset</a>
+- <a href="https://mavenanalytics.io/data-playground/airbnb-listings-reviews>Airbnb">Dataset</a>
 
 ## Features
 
