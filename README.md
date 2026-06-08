@@ -14,27 +14,37 @@ The dashboard was built using the following tools and technologies:<br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
 ## Data Source
-- <a href="https://mavenanalytics.io/data-playground/airbnb-listings-reviews>Airbnb Dataset</a>
+- <a href = "https://mavenanalytics.io/data-playground/airbnb-listings-reviews>Airbnb Dataset</a>
 
 ## Features
 
-### 1. Business Problem - Airbnb operates across multiple cities and property types, making it challenging to understand how market performance, customer satisfaction, review activity, and host trust vary across locations, and to identify growth opportunities, monitor customer experience, and make data-driven decisions.
+### 1. Business Problem 
+Airbnb operates across multiple cities and property types, making it challenging to understand how market performance, customer satisfaction, review activity, and host trust vary across locations, and to identify growth opportunities, monitor customer experience, and make data-driven decisions.
+
 Key questions such as:
 Which cities contribute the largest share of Airbnb listings? How frequently do customers leave reviews? What proportion of hosts have verified profiles? How has Airbnb's listing growth changed over time?… are difficult to answer quickly with raw data.
 
 ### 2. Goal of the Dashboard
 To deliver an interactive visual tool that:
+
 Enables users to explore Airbnb performance across selected cities through listings, ratings, reviews, and host metrics.
+
 Supports data-driven decisions related to customer experience, market performance, and platform growth.
+
 Uncovers trends in customer satisfaction, review behavior, property distribution, and host trust indicators.
 
 ### 3. Walkthrough of Key Visuals
 #### Overview Page
 - KPI Cards (Top Section)
+
 279,712 Listings: Total number of Airbnb properties listed across the selected cities.
+
 10 Cities: Number of cities included in the analysis.
+
 182,024 Hosts: Total hosts managing Airbnb properties.
+
 144 Property Types: Variety of accommodation types offered on the platform.
+
 5.373K Reviews: Total customer reviews captured in the dataset.
 
 - New Listings Trend Analysis (Main Visual): A line chart that shows how Airbnb listings evolved from 2008–2021 for different room types.
